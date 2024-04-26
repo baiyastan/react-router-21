@@ -1,0 +1,22 @@
+.todo {
+    margin: 0 auto;
+}
+.add {
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(92, 199, 208);
+}
+
+.delete {
+    color: red;
+}
+
+.todo-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px;
+    box-shadow: 0 4px 6px violet;
+    margin: 10px auto;
+    padding: 10px;
+}
